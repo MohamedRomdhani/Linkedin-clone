@@ -1,4 +1,3 @@
-import { PinDropSharp } from '@material-ui/icons';
 import { Avatar } from '@mui/material';
 import React from 'react'
 import "./HeaderOption.css";
